@@ -5,7 +5,7 @@
     <title>Examen de Serveis de Xarxa</title>
 </head>
 <body>
-    <p>Zhijie,Lin,pj9f5a14,20250324</p>
+    <p>Zhijie,Lin,pj9f5a14,20250324.</p>
     <h1>Examen de Serveis de Xarxa</h1>
     <form action="corrector.php" method="post">
         <label for="nom">Nom complet:</label>
